@@ -1,0 +1,10 @@
+E:\ITI\Design Pattern\Day01\TaskDay01\TaskDay01\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.exe
+E:\ITI\Design Pattern\Day01\TaskDay01\TaskDay01\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.deps.json
+E:\ITI\Design Pattern\Day01\TaskDay01\TaskDay01\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.runtimeconfig.json
+E:\ITI\Design Pattern\Day01\TaskDay01\TaskDay01\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.runtimeconfig.dev.json
+E:\ITI\Design Pattern\Day01\TaskDay01\TaskDay01\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.dll
+E:\ITI\Design Pattern\Day01\TaskDay01\TaskDay01\BuilderDesignPattern\bin\Debug\netcoreapp3.1\BuilderDesignPattern.pdb
+E:\ITI\Design Pattern\Day01\TaskDay01\TaskDay01\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.AssemblyInfoInputs.cache
+E:\ITI\Design Pattern\Day01\TaskDay01\TaskDay01\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.AssemblyInfo.cs
+E:\ITI\Design Pattern\Day01\TaskDay01\TaskDay01\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.dll
+E:\ITI\Design Pattern\Day01\TaskDay01\TaskDay01\BuilderDesignPattern\obj\Debug\netcoreapp3.1\BuilderDesignPattern.pdb
